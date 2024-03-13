@@ -1,0 +1,16 @@
+git add remote examenGit url
+Añadir los cambios y realizar el commit
+Publicar rama
+Crear una rama nueva y cambiar a ella, y crear un fichero llamado git.html con contenido "Examen git"
+En la terminal de VSCode git status
+Añadir los cambios 
+Añadir el correo
+Lo mismo de la linea 5
+Añadir los cambios y realizar un commit
+Publicar la rama
+Dar a la opcion  de los grafos de los commit
+Cambiar a la rama master y crear el fichero pasos.txt 
+Añadir los cambios y hacer commit
+Publicar 
+Fusionar las ramas
+Y lo mismo de la linea 11
